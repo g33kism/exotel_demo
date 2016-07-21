@@ -1,4 +1,4 @@
-# exotel_demo
+# exotel API demo
 ##File details
 - sms.php : basic send sms code
 - validation.php : random number voice callback
@@ -9,3 +9,7 @@
 
 ##Demo
 - demo location: (http://guntest.comule.com/register.php)
+
+##API:
+-Official demos: (https://github.com/exotel/ExotelAPI)
+-API Docs(http://support.exotel.in/support/solutions/folders/92360/page/1)
