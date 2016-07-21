@@ -21,14 +21,3 @@
 
 	$conn->close();
 ?>
-
-<html>
-<body>
-	<h3>Register Phone number</h3>
-	<form method="POST">
-		Phone number:<input name="number" type="text" />
-		<input type="submit" value="Register"/>
-	</form>
-</body>
-
-</html>
