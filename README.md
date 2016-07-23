@@ -11,5 +11,5 @@
 - demo location: (http://guntest.comule.com/register.php)
 
 ##API:
--Official demos: (https://github.com/exotel/ExotelAPI)
--API Docs(http://support.exotel.in/support/solutions/folders/92360/page/1)
+- Official demos: (https://github.com/exotel/ExotelAPI)
+- API Docs(http://support.exotel.in/support/solutions/folders/92360/page/1)
